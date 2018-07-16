@@ -1,0 +1,42 @@
+header{
+    border: 2px solid black;
+    height: 40px;
+}
+.aside-1{
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+    float: left;
+}
+.aside-2{
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+    float: right;
+}
+.aside-3{
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+    float: left;
+    overflow: hidden;
+}
+.aside-4{
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+    float: right;
+}
+.aside-5{
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+    float: left;
+}
+.aside-6{
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+    float: right;
+}
+
