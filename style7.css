@@ -1,42 +1,57 @@
-header{
+.navbar{
     border: 2px solid black;
-    height: 40px;
+    
 }
-.aside-1{
+#box1{
     border: 2px solid black;
-    height: 60px;
-    width: 300px;
-    float: left;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
 }
-.aside-2{
+
+#box2{
     border: 2px solid black;
-    height: 60px;
-    width: 300px;
-    float: right;
+    width: 200px;
+    height: 150px;
+    margin-left: 1065px;
+    margin-top: -155px;
+
 }
-.aside-3{
+
+#box3{
     border: 2px solid black;
-    height: 60px;
-    width: 300px;
-    float: left;
-    overflow: hidden;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
 }
-.aside-4{
+
+#box4{
     border: 2px solid black;
-    height: 60px;
-    width: 300px;
-    float: right;
+    width: 200px;
+    height: 150px;
+    margin-left: 1065px;
+    margin-top: -155px;
 }
-.aside-5{
-    border: 2px solid black;
-    height: 60px;
-    width: 300px;
-    float: left;
+#box5{
+	border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
 }
-.aside-6{
-    border: 2px solid black;
-    height: 60px;
-    width: 300px;
-    float: right;
+
+#box6{
+	border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    margin-left: 1065px;
+    margin-top: -155px;
 }
+#main-section{
+	border: 2px solid black;
+	margin-left: 205px;
+	margin-right: 224.5px;
+	margin-top: -480px;
+	height: 475px;
+
+
 
