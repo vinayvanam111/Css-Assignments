@@ -5,16 +5,16 @@
 }
 #sidebar{
     background-color: green;
-    height: 100%;
-    width: 160px;
     position: fixed;
-    top: 50px;
+    width: 160px;
+    height: 466px;
 
 }
 #main-section{
     background-color: blue;
-    height: 500px;
+    height: 466px;
     margin-top: -16px;
+    margin-left: 160px;
 }
 
 #footer-section{
