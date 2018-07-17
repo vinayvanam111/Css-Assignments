@@ -1,0 +1,21 @@
+#left-align{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+
+}
+
+#right-align{
+    background-color: red;
+    width: 300px;
+    height: 400px;
+    margin-left: 960px;
+    margin-top: -500px;
+}
+#center-align{
+    background-color: blue;
+    width: 660px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: -300px;
+}
